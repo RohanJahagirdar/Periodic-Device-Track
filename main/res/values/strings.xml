@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Sales Track</string>
-    <string name="google_app_id">168288416250</string>
+    <string name="google_app_id">YOUR_API_KEY_HERE</string>
 
     <string name="login">Login</string>
     <string name="logout">Log Out</string>
 
-    <string name="update_location_url">"http://45.119.59.10/yoosme.com/web/writedb.php"</string>
-    <string name="login_url">http://45.119.59.10/yoosme.com/web/mobilelogin.php</string>
+    <string name="update_location_url">"http:/PATH/writedb.php"</string>
+    <string name="login_url">http:/PATH/mobilelogin.php</string>
 
 
     <string name="invalid_login_credentials">Please enter a valid username and password.</string>
